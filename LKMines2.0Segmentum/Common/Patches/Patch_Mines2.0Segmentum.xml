@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	
+  <!-- Segmentum Mod Series -->		
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/ThingDef[defName="Seg_Adamantium"]</xpath>
+      <value>
+        <li Class="MinesAutomatedExtension.MineableSettings">
+    <researchPrerequisites>
+        <li>Seg_CeramiteProduction</li>
+    </researchPrerequisites>
+    <workOffset>200</workOffset>
+    <mineableYield>10</mineableYield>
+</li>
+      </value>
+  </Operation>	
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/ThingDef[defName="Seg_Ceramite"]</xpath>
+      <value>
+        <li Class="MinesAutomatedExtension.MineableSettings">
+    <researchPrerequisites>
+        <li>Seg_CeramiteProduction</li>
+    </researchPrerequisites>
+    <workOffset>200</workOffset>
+    <mineableYield>10</mineableYield>
+</li>
+      </value>
+  </Operation>	
+  
+  	
+</Patch>
