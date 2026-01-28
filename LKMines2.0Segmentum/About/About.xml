@@ -10,7 +10,7 @@
     
     
     [H1][B]Credits[/B][/H1]
-    Mines 2.0 for the mod that ive patched and the preview image ive edited.
+    Mines 2.0 for the mod that ive patched.
     Ludeon for making Rimworld.
     
 
@@ -44,4 +44,5 @@
         <li>Cain.Mineshaft</li>
         <li>REDACTED.Segmentum.Core</li>
     </loadAfter>
+
 </ModMetaData>
