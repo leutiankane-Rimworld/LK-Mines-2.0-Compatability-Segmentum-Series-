@@ -6,7 +6,7 @@
         <li>1.6</li>
     </supportedVersions>
     <packageId>LeutianKane.Mines2patchSegmentum</packageId>
-    <description>Patches that will add resources from the Segmentum series to mines 2.0 bills if installed.
+    <description>Patches that will add resources from the Segmentum series to mines 2.0 bills if installed and proper research is unlocked.
     
     
     [H1][B]Credits[/B][/H1]
@@ -46,3 +46,4 @@
     </loadAfter>
 
 </ModMetaData>
+
